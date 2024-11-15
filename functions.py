@@ -1,5 +1,3 @@
-# functions.py
-
 import random
 
 # Шаг 1: Переворот списка
